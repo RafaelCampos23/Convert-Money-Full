@@ -4,7 +4,7 @@
 
 [Estamos ONLINE, experimente agora](https://rafaelcampos23.github.io/Convert-Money-Full/) :earth_americas:<br>
 
-<img src="" alt="Imagem-projeto"></img>
+<img src="https://github.com/RafaelCampos23/Convert-Money-Full/blob/main/assets/ConvertyMoneyFull.png?raw=true" alt="Imagem-projeto"></img>
     
 <h2><b>Sobre o projeto:</b></h2>
     <p>Projeto Converty Money do <a href="https://rodolfomori.com.br/devclub">DevClub</a>, o projeto conta com parâmetros de responsividade.</p>
