@@ -9,7 +9,6 @@
 <h2><b>Sobre o projeto:</b></h2>
     <p>Projeto Converty Money do <a href="https://rodolfomori.com.br/devclub">DevClub</a>, o projeto conta com parâmetros de responsividade.</p>
 
-<a>Java Script</a>
 <br>
 <br>
 
